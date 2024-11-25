@@ -41,13 +41,6 @@ npm install
 anchor build
 ```
 
-4. Get the program ID:
-```bash
-solana address -k target/deploy/store_memory-keypair.json
-```
-
-5. Update the program ID in `lib.rs` and `Anchor.toml` with the address from step 4.
-
 ### Testing
 
 1. Run the tests:
