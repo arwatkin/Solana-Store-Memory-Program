@@ -33,7 +33,7 @@ cd anchor_project
 
 2. Install Anchor dependencies:
 ```bash
-npm install
+yarn install
 ```
 
 3. Build the program:
