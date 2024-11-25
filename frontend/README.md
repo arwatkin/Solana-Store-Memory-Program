@@ -45,7 +45,7 @@ Common issues and solutions:
 
 1. Wallet Connection Issues:
    - Ensure your wallet is installed and unlocked
-   - Check if you're on the correct network
+   - Check if you're wallet is on the correct network (Devnet)
 
 2. Transaction Errors:
    - Verify you have sufficient SOL for transactions
